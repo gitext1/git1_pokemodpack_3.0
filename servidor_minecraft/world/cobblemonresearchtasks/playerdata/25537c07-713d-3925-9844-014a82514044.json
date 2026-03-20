@@ -1,0 +1,996 @@
+{
+  "species": {
+    "cobblemon:pikachu": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 199
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:squirtle": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:pidgey": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:fuecoco": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_10": 4,
+        "defeat_any_10": 8
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:fletchling": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:raichu": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 200,
+        "defeat_any_30": 77,
+        "level_up_30": 25,
+        "defeat_type_fighting_20": 2
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_120"
+      ]
+    },
+    "cobblemon:wartortle": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_any_20": 17,
+        "friendship_80": 86,
+        "level_up_25": 4
+      },
+      "taskCompleted": [
+        "friendship_80"
+      ]
+    },
+    "cobblemon:igglybuff": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:charmeleon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_type_rock_10": 1,
+        "friendship_80": 49,
+        "defeat_any_20": 3
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:pupitar": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:noivern": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_any_20": 106,
+        "friendship_80": 165,
+        "defeat_type_fighting_10": 5,
+        "ride_3k": 81577,
+        "level_up_25": 7
+      },
+      "taskCompleted": [
+        "friendship_80"
+      ]
+    },
+    "cobblemon:toxel": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:minereon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:poliwag": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_10": 1,
+        "capture": 1,
+        "defeat_any_10": 4
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:cottonee": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:tauros": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "friendship_80": 51
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:fidough": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:diggersby": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_any_20": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:voltorb": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:slowking": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:crocalor": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_25": 5,
+        "friendship_80": 113,
+        "defeat_any_20": 26,
+        "defeat_type_fighting_10": 1
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:wigglytuff": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 49
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:ninjask": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:trevenant": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:magmar": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:haunter": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:absol": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:scorbunny": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "defeat_any_10": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:raboot": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_any_20": 7,
+        "defeat_type_fighting_10": 2,
+        "level_up_25": 3,
+        "friendship_80": 95
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:pidgeot": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:avalugg": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:riolu": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_10": 4,
+        "capture": 1,
+        "defeat_any_10": 9,
+        "defeat_type_fighting_5": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:sableye": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:carbink": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:eevee": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:leafeon": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 80,
+        "defeat_any_30": 14,
+        "level_up_30": 5
+      },
+      "taskCompleted": [
+        "evolve"
+      ]
+    },
+    "cobblemon:skeledirge": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 121,
+        "defeat_any_30": 8,
+        "defeat_type_fighting_20": 2,
+        "level_up_30": 1
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_120"
+      ]
+    },
+    "cobblemon:blastoise": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 110,
+        "defeat_any_30": 13,
+        "level_up_30": 1,
+        "defeat_type_electric_20": 1
+      },
+      "taskCompleted": [
+        "evolve"
+      ]
+    },
+    "cobblemon:cinderace": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 140,
+        "defeat_any_30": 46,
+        "level_up_30": 3,
+        "defeat_type_fighting_20": 2
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_120"
+      ]
+    },
+    "cobblemon:oinkologne": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:buneary": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:cramorant": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:maschiff": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:talonflame": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 74,
+        "defeat_any_30": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:starmie": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:purrloin": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:zorua": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:patrat": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:linoone": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "level_up_25": 5,
+        "friendship_80": 106,
+        "defeat_species_nidoran♂": 1,
+        "defeat_any_20": 2
+      },
+      "taskCompleted": [
+        "friendship_80"
+      ]
+    },
+    "cobblemon:lapras": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "friendship_80": 53,
+        "ride_3k": 1348
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:gyarados": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 139,
+        "ride_3k": 244,
+        "defeat_any_30": 2
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_120"
+      ]
+    },
+    "cobblemon:rockruff": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:druddigon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:lucario": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "defeat_any_20": 90,
+        "friendship_80": 180,
+        "defeat_species_nuzleaf": 1,
+        "level_up_25": 9,
+        "defeat_type_fighting_10": 3
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:scraggy": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:skorupi": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:gastly": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:ferroseed": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:gimmighoul": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:boltund": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:mothim": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:raticate": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:nickit": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:oricorio": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:furret": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:rowlet": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:eeveeon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:pachirisu": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:crobat": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:houndoom": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:kingler": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 51
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:brionne": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": [
+        "evolve"
+      ]
+    },
+    "cobblemon:pichu": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:annihilape": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 108,
+        "defeat_any_30": 44,
+        "level_up_30": 16,
+        "defeat_type_fighting_20": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:primeape": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:ho-oh": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_135": 104,
+        "capture": 1,
+        "ride_3k": 1770,
+        "defeat_any_40": 48,
+        "level_up_10": 12,
+        "defeat_type_fighting_30": 5
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:golett": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:mawile": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:zweilous": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:klefki": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:vulpix": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:regice": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1,
+        "friendship_135": 101,
+        "defeat_any_40": 41,
+        "level_up_10": 5
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:inteleon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:gible": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:gabite": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 105,
+        "level_up_25": 8,
+        "defeat_any_20": 3
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:ariados": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:feebas": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:poliwhirl": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:ponyta": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:golem": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": [
+        "evolve"
+      ]
+    },
+    "cobblemon:gigalith": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:garchomp": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 152,
+        "defeat_any_30": 52,
+        "ride_3k": 9980,
+        "level_up_30": 8,
+        "defeat_type_fighting_20": 4
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_120"
+      ]
+    },
+    "cobblemon:ducklett": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:miltank": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:corphish": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:piloswine": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:swinub": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:noctowl": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:lopunny": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:onix": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 51
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:steelix": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": [
+        "evolve"
+      ]
+    },
+    "cobblemon:rapidash": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:grapploct": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:barbaracle": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:quilava": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {},
+      "taskCompleted": []
+    },
+    "cobblemon:staraptor": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "ride_3k": 435
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:magby": {
+      "progress": 3,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 3
+      },
+      "taskCompleted": [
+        "capture"
+      ]
+    },
+    "cobblemon:duskull": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:larvesta": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 1
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:metang": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_80": 122,
+        "defeat_any_20": 28,
+        "level_up_25": 15,
+        "defeat_type_fighting_10": 1
+      },
+      "taskCompleted": [
+        "evolve",
+        "friendship_80"
+      ]
+    },
+    "cobblemon:hydreigon": {
+      "progress": 1,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 51,
+        "ride_3k": 14
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:beldum": {
+      "progress": 2,
+      "claimed": [],
+      "taskProgress": {
+        "capture": 2
+      },
+      "taskCompleted": []
+    },
+    "cobblemon:metagross": {
+      "progress": 0,
+      "claimed": [],
+      "taskProgress": {
+        "friendship_120": 123,
+        "ride_3k": 104
+      },
+      "taskCompleted": [
+        "friendship_120",
+        "evolve"
+      ]
+    }
+  },
+  "claimedGlobalTiers": [],
+  "claimedSpeciesRewards": [],
+  "gaveResearchBook": true
+}

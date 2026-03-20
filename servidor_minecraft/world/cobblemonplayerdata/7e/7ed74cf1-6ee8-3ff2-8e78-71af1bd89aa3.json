@@ -1,0 +1,674 @@
+{
+  "uuid": "7ed74cf1-6ee8-3ff2-8e78-71af1bd89aa3",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "caa650e3-5e6b-4648-8fe5-73a51940ba42",
+  "keyItems": [
+    "cobblemon:key_stone"
+  ],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 185,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 20,
+    "totalBattleVictoryCount": 587,
+    "totalPvPBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 572,
+    "totalPvNBattleVictoryCount": 11,
+    "totalShinyCaptureCount": 2,
+    "totalTradedCount": 16,
+    "totalTypeCaptureCounts": {
+      "normal": 36,
+      "flying": 23,
+      "rock": 16,
+      "ground": 14,
+      "fire": 11,
+      "poison": 18,
+      "electric": 14,
+      "water": 29,
+      "dark": 6,
+      "grass": 19,
+      "ghost": 9,
+      "fighting": 10,
+      "bug": 12,
+      "psychic": 8,
+      "fairy": 12,
+      "steel": 15,
+      "ice": 13,
+      "dragon": 7
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:skwovet": 15,
+      "cobblemon:rattata": 4,
+      "cobblemon:spinarak": 8,
+      "cobblemon:geodude": 8,
+      "cobblemon:burmy": 2,
+      "cobblemon:bunnelby": 6,
+      "cobblemon:lillipup": 1,
+      "cobblemon:glameow": 11,
+      "cobblemon:drowzee": 3,
+      "cobblemon:sentret": 26,
+      "cobblemon:lechonk": 18,
+      "cobblemon:growlithe": 2,
+      "cobblemon:yamper": 5,
+      "cobblemon:combee": 5,
+      "cobblemon:hoppip": 6,
+      "cobblemon:mareep": 6,
+      "cobblemon:zigzagoon": 16,
+      "cobblemon:purrloin": 6,
+      "cobblemon:drifloon": 1,
+      "cobblemon:crabrawler": 4,
+      "cobblemon:caterpie": 4,
+      "cobblemon:diglett": 1,
+      "cobblemon:tepig": 1,
+      "cobblemon:minereon": 1,
+      "cobblemon:igglybuff": 5,
+      "cobblemon:cherubi": 1,
+      "cobblemon:patrat": 4,
+      "cobblemon:seedot": 2,
+      "cobblemon:poliwag": 2,
+      "cobblemon:gimmighoul": 3,
+      "cobblemon:taillow": 7,
+      "cobblemon:minior": 2,
+      "cobblemon:mankey": 1,
+      "cobblemon:snover": 1,
+      "cobblemon:furret": 3,
+      "cobblemon:wooloo": 14,
+      "cobblemon:chewtle": 2,
+      "cobblemon:krabby": 3,
+      "cobblemon:slowpoke": 7,
+      "cobblemon:wiglett": 2,
+      "cobblemon:magikarp": 5,
+      "cobblemon:psyduck": 3,
+      "cobblemon:snubbull": 2,
+      "cobblemon:kingler": 2,
+      "cobblemon:meowth": 3,
+      "cobblemon:wingull": 3,
+      "cobblemon:tandemaus": 2,
+      "cobblemon:tauros": 1,
+      "cobblemon:bouffalant": 2,
+      "cobblemon:azurill": 1,
+      "cobblemon:pidgey": 9,
+      "cobblemon:linoone": 2,
+      "cobblemon:persian": 1,
+      "cobblemon:squawkabilly": 1,
+      "cobblemon:basculin": 1,
+      "cobblemon:timburr": 1,
+      "cobblemon:haunter": 1,
+      "cobblemon:numel": 2,
+      "cobblemon:buneary": 3,
+      "cobblemon:fletchling": 4,
+      "cobblemon:trubbish": 1,
+      "cobblemon:stufful": 1,
+      "cobblemon:noibat": 1,
+      "cobblemon:electrike": 2,
+      "cobblemon:ledyba": 1,
+      "cobblemon:boltund": 1,
+      "cobblemon:cottonee": 3,
+      "cobblemon:ducklett": 2,
+      "cobblemon:phantump": 1,
+      "cobblemon:maschiff": 1,
+      "cobblemon:pidove": 1,
+      "cobblemon:seaking": 1,
+      "cobblemon:diggersby": 3,
+      "cobblemon:yungoos": 2,
+      "cobblemon:whismur": 1,
+      "cobblemon:swinub": 6,
+      "cobblemon:cetoddle": 1,
+      "cobblemon:darumaka": 5,
+      "cobblemon:cubchoo": 1,
+      "cobblemon:drilbur": 3,
+      "cobblemon:graveler": 2,
+      "cobblemon:loudred": 1,
+      "cobblemon:roggenrola": 1,
+      "cobblemon:hoothoot": 7,
+      "cobblemon:oddish": 1,
+      "cobblemon:buizel": 2,
+      "cobblemon:corphish": 1,
+      "cobblemon:joltik": 2,
+      "cobblemon:galvantula": 1,
+      "cobblemon:minccino": 2,
+      "cobblemon:dachsbun": 2,
+      "cobblemon:smeargle": 1,
+      "cobblemon:weedle": 1,
+      "cobblemon:spidops": 2,
+      "cobblemon:oinkologne": 1,
+      "cobblemon:sandshrew": 1,
+      "cobblemon:starly": 1,
+      "cobblemon:miltank": 1,
+      "cobblemon:elekid": 1,
+      "cobblemon:koffing": 2,
+      "cobblemon:rookidee": 2,
+      "cobblemon:munna": 2,
+      "cobblemon:cutiefly": 1,
+      "cobblemon:furfrou": 1,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:fidough": 1,
+      "cobblemon:mareanie": 1,
+      "cobblemon:teddiursa": 1,
+      "cobblemon:onix": 22,
+      "cobblemon:tarountula": 2,
+      "cobblemon:sewaddle": 3,
+      "cobblemon:kricketot": 1,
+      "cobblemon:centiskorch": 1,
+      "cobblemon:magby": 7,
+      "cobblemon:salandit": 1,
+      "cobblemon:houndour": 9,
+      "cobblemon:houndoom": 1,
+      "cobblemon:sizzlipede": 2,
+      "cobblemon:slugma": 1,
+      "cobblemon:magmar": 1,
+      "cobblemon:beldum": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:hoothoot": [
+        "female"
+      ],
+      "cobblemon:geodude": [
+        "female",
+        "male",
+        "alolan"
+      ],
+      "cobblemon:growlithe": [
+        "male"
+      ],
+      "cobblemon:grimer": [
+        "male",
+        "female",
+        "alolan"
+      ],
+      "cobblemon:pidgey": [
+        "female"
+      ],
+      "cobblemon:mareep": [
+        "female"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red",
+        "male",
+        "gyarados-eye-color-purple",
+        "shiny"
+      ],
+      "cobblemon:maschiff": [
+        "male"
+      ],
+      "cobblemon:gloom": [
+        "male"
+      ],
+      "cobblemon:phantump": [
+        "female",
+        "tree-none",
+        "male"
+      ],
+      "cobblemon:wingull": [
+        "female"
+      ],
+      "cobblemon:crabrawler": [
+        "male",
+        "female"
+      ],
+      "cobblemon:zubat": [
+        "female",
+        "male"
+      ],
+      "cobblemon:drilbur": [
+        "male",
+        "female"
+      ],
+      "cobblemon:vulpix": [
+        "male",
+        "female"
+      ],
+      "cobblemon:weedle": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:froakie": [
+        "male"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:onix": [
+        "female",
+        "male"
+      ],
+      "cobblemon:munna": [
+        "male"
+      ],
+      "cobblemon:fletchling": [
+        "male",
+        "female"
+      ],
+      "cobblemon:squirtle": [
+        "male"
+      ],
+      "cobblemon:cottonee": [
+        "female",
+        "male"
+      ],
+      "cobblemon:zigzagoon": [
+        "female",
+        "galarian"
+      ],
+      "cobblemon:jigglypuff": [
+        "female"
+      ],
+      "cobblemon:mawile": [
+        "male"
+      ],
+      "cobblemon:petilil": [
+        "female",
+        "region-bias-hisui"
+      ],
+      "cobblemon:lechonk": [
+        "female"
+      ],
+      "cobblemon:rattata": [
+        "male"
+      ],
+      "cobblemon:gyarados": [
+        "male",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red",
+        "female",
+        "gyarados-eye-color-purple",
+        "shiny"
+      ],
+      "cobblemon:krabby": [
+        "male"
+      ],
+      "cobblemon:brionne": [
+        "male"
+      ],
+      "cobblemon:tandemaus": [
+        "genderless",
+        "maushold-family-four"
+      ],
+      "cobblemon:minccino": [
+        "female"
+      ],
+      "cobblemon:manectric": [
+        "female"
+      ],
+      "cobblemon:wartortle": [
+        "male"
+      ],
+      "cobblemon:mareanie": [
+        "male"
+      ],
+      "cobblemon:lapras": [
+        "female",
+        "male"
+      ],
+      "cobblemon:ponyta": [
+        "male",
+        "galarian",
+        "female"
+      ],
+      "cobblemon:minereon": [
+        "male"
+      ],
+      "cobblemon:munchlax": [
+        "male"
+      ],
+      "cobblemon:nosepass": [
+        "male"
+      ],
+      "cobblemon:fletchinder": [
+        "female",
+        "male"
+      ],
+      "cobblemon:frogadier": [
+        "male"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ],
+      "cobblemon:piloswine": [
+        "male"
+      ],
+      "cobblemon:swinub": [
+        "male"
+      ],
+      "cobblemon:beartic": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:graveler": [
+        "female"
+      ],
+      "cobblemon:tinkatink": [
+        "female"
+      ],
+      "cobblemon:golbat": [
+        "female",
+        "male"
+      ],
+      "cobblemon:gastly": [
+        "female"
+      ],
+      "cobblemon:excadrill": [
+        "male",
+        "female"
+      ],
+      "cobblemon:sentret": [
+        "male"
+      ],
+      "cobblemon:leafeon": [
+        "male"
+      ],
+      "cobblemon:electrike": [
+        "female"
+      ],
+      "cobblemon:kingler": [
+        "female"
+      ],
+      "cobblemon:bouffalant": [
+        "male",
+        "female"
+      ],
+      "cobblemon:sewaddle": [
+        "female"
+      ],
+      "cobblemon:furret": [
+        "male"
+      ],
+      "cobblemon:koffing": [
+        "female"
+      ],
+      "cobblemon:magnezone": [
+        "genderless",
+        "alpha"
+      ],
+      "cobblemon:exeggutor": [
+        "female",
+        "alolan"
+      ],
+      "cobblemon:voltorb": [
+        "genderless"
+      ],
+      "cobblemon:glimmora": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:pidgeotto": [
+        "male",
+        "female"
+      ],
+      "cobblemon:basculin": [
+        "male",
+        "redstriped"
+      ],
+      "cobblemon:sandygast": [
+        "female"
+      ],
+      "cobblemon:bewear": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:noibat": [
+        "female",
+        "male"
+      ],
+      "cobblemon:abomasnow": [
+        "male",
+        "female"
+      ],
+      "cobblemon:gimmighoul": [
+        "genderless"
+      ],
+      "cobblemon:sylveon": [
+        "male"
+      ],
+      "cobblemon:roselia": [
+        "female"
+      ],
+      "cobblemon:ekans": [
+        "male",
+        "snake-pattern-classic"
+      ],
+      "cobblemon:rhyhorn": [
+        "male"
+      ],
+      "cobblemon:ferroseed": [
+        "female"
+      ],
+      "cobblemon:joltik": [
+        "male"
+      ],
+      "cobblemon:torkoal": [
+        "male"
+      ],
+      "cobblemon:miltank": [
+        "female",
+        "mooshtank-false"
+      ],
+      "cobblemon:spiritomb": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:kakuna": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:beedrill": [
+        "shiny",
+        "female"
+      ],
+      "cobblemon:tauros": [
+        "male",
+        "combat-breed",
+        "alpha"
+      ],
+      "cobblemon:staraptor": [
+        "male"
+      ],
+      "cobblemon:tarountula": [
+        "male"
+      ],
+      "cobblemon:pichu": [
+        "female"
+      ],
+      "cobblemon:corphish": [
+        "male"
+      ],
+      "cobblemon:lopunny": [
+        "female"
+      ],
+      "cobblemon:bunnelby": [
+        "female"
+      ],
+      "cobblemon:solosis": [
+        "female"
+      ],
+      "cobblemon:buizel": [
+        "male"
+      ],
+      "cobblemon:pansage": [
+        "male"
+      ],
+      "cobblemon:purrloin": [
+        "female"
+      ],
+      "cobblemon:patrat": [
+        "male"
+      ],
+      "cobblemon:masquerain": [
+        "male"
+      ],
+      "cobblemon:oricorio": [
+        "female",
+        "baile-style"
+      ],
+      "cobblemon:timburr": [
+        "female",
+        "tree-none"
+      ],
+      "cobblemon:snorlax": [
+        "male"
+      ],
+      "cobblemon:spinarak": [
+        "male"
+      ],
+      "cobblemon:teddiursa": [
+        "female"
+      ],
+      "cobblemon:chewtle": [
+        "female"
+      ],
+      "cobblemon:watchog": [
+        "male"
+      ],
+      "cobblemon:greedent": [
+        "female"
+      ],
+      "cobblemon:regice": [
+        "genderless"
+      ],
+      "cobblemon:seel": [
+        "male"
+      ],
+      "cobblemon:bergmite": [
+        "male"
+      ],
+      "cobblemon:spheal": [
+        "male",
+        "female"
+      ],
+      "cobblemon:cubchoo": [
+        "female"
+      ],
+      "cobblemon:empoleon": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:piplup": [
+        "male"
+      ],
+      "cobblemon:sobble": [
+        "male"
+      ],
+      "cobblemon:dratini": [
+        "female"
+      ],
+      "cobblemon:klefki": [
+        "female",
+        "male"
+      ],
+      "cobblemon:klink": [
+        "genderless"
+      ],
+      "cobblemon:roggenrola": [
+        "male"
+      ],
+      "cobblemon:boldore": [
+        "female"
+      ],
+      "cobblemon:corviknight": [
+        "female"
+      ],
+      "cobblemon:feebas": [
+        "male",
+        "fished"
+      ],
+      "cobblemon:lucario": [
+        "male",
+        "none",
+        "alpha"
+      ],
+      "cobblemon:galvantula": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:barboach": [
+        "female"
+      ],
+      "cobblemon:pineco": [
+        "male",
+        "female"
+      ],
+      "cobblemon:lycanroc": [
+        "female",
+        "midday-form"
+      ],
+      "cobblemon:elekid": [
+        "male",
+        "female"
+      ],
+      "cobblemon:hitmonlee": [
+        "male"
+      ],
+      "cobblemon:dedenne": [
+        "female"
+      ],
+      "cobblemon:rockruff": [
+        "female",
+        "midday-form"
+      ],
+      "cobblemon:dragonite": [
+        "female",
+        "alpha"
+      ],
+      "cobblemon:fidough": [
+        "male"
+      ],
+      "cobblemon:espurr": [
+        "female"
+      ],
+      "cobblemon:audino": [
+        "female"
+      ],
+      "cobblemon:azurill": [
+        "male"
+      ],
+      "cobblemon:breloom": [
+        "female",
+        "male"
+      ],
+      "cobblemon:druddigon": [
+        "male",
+        "alpha"
+      ],
+      "cobblemon:machop": [
+        "male"
+      ],
+      "cobblemon:spewpa": [
+        "female"
+      ],
+      "cobblemon:exeggcute": [
+        "male",
+        "region-bias-alola"
+      ],
+      "cobblemon:fuecoco": [
+        "male"
+      ],
+      "cobblemon:haunter": [
+        "female"
+      ],
+      "cobblemon:salandit": [
+        "male"
+      ],
+      "cobblemon:duskull": [
+        "female"
+      ],
+      "cobblemon:larvesta": [
+        "male"
+      ],
+      "cobblemon:metang": [
+        "genderless"
+      ],
+      "cobblemon:ninetales": [
+        "female"
+      ],
+      "cobblemon:kadabra": [
+        "male"
+      ]
+    }
+  }
+}
